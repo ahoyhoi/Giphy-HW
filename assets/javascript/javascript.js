@@ -38,7 +38,7 @@ $(document).ready(function () {
     // Function that display all
     function displayGifs() {
         var food = $(this).attr("data-name");
-        var queryURL = "http://api.giphy.com/v1/gifs/search?q=" + food + "&api_key=dc6zaTOxFJmzC&limit=10";
+        var queryURL = "http://api.giphy.com/v1/gifs/search?q=" + food + "&api_key=3J4GsUmd2qyEyQoEofWousWMZ9pOPrEu&limit=10";
         
         $.ajax({
             url: queryURL,
