@@ -1,7 +1,7 @@
 h1 {
 
 text-align: center;
-color: blueviolet;
+color: green;
 
 
 }
@@ -13,9 +13,9 @@ color: blueviolet;
 
 }
 .container {
-	background-color: #fff;
+	background-color:whitesmoke;
 	opacity: 0.8;
-    padding: 10px;
+    padding: 13px;
     background-image:url(giphy\assets\images\snacks.jpg)
 
 }
